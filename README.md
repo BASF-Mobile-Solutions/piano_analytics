@@ -1,4 +1,4 @@
-# basf_flutter_components
+# basf_flutter_piano_analytics
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/BASF-Mobile-Solutions/basf_flutter_components/master/assets/basf_logo.png" />
@@ -7,15 +7,15 @@
 [![ci][ci_badge]][ci_link] [![pub package][pub_badge]][pub_link]  [![License: MIT][license_badge]][license_link] ![coverage][coverage_badge]
 
 
-A BASF Piano Flutter plugin for Piano Analytics
+A BASF Flutter plugin for Piano Analytics
 
 ## Installing
 
-Add BASF Piano Flutter plugin to your pubspec.yaml file:
+Add BASF Flutter plugin to your pubspec.yaml file:
 
 ```yaml
 dependencies:
-  basf_flutter_pianoanalytics:
+  basf_flutter_piano_analytics:
 ```
 
 Import the library into your `.dart` file:
