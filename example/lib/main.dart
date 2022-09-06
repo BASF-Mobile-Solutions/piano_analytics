@@ -35,9 +35,9 @@ class _MyAppState extends State<MyApp> {
           await _pianoFlutterPlugin.getPlatformVersion() ?? 'Unknown platform version';
 
 
-      _pianoFlutterPlugin.config("strawberry.basf.com",631520);
+      _pianoFlutterPlugin.config("xxxx.com",999999);
       _pianoFlutterPlugin.trackEvent('page.display',{
-        "page": "page name ios 09 05", // Event properties
+        "page": "page name", // Event properties
         "page_chapter1": "chapter 1",
         "page_chapter2": "chapter 2",
         "page_chapter3": "chapter 3"
