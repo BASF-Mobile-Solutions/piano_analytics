@@ -8,9 +8,9 @@ import io.flutter.embedding.engine.FlutterEngine
 class MainActivity: FlutterActivity() {
     override fun configureFlutterEngine(flutterEngine: FlutterEngine) {
         super.configureFlutterEngine(flutterEngine)
-        ActivityCompat.requestPermissions(this,
-            arrayOf(android.Manifest.permission.READ_PHONE_STATE),
-            101)
+//        ActivityCompat.requestPermissions(this,
+//            arrayOf(android.Manifest.permission.READ_PHONE_STATE),
+//            101)
     }
 
 }
