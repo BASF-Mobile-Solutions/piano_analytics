@@ -15,7 +15,7 @@ Add BASF Flutter plugin to your pubspec.yaml file:
 
 ```yaml
 dependencies:
-  basf_flutter_piano_analytics:
+  piano_flutter_plugin:
 ```
 
 Import the library into your `.dart` file:
